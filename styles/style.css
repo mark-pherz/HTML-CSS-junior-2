@@ -9,12 +9,12 @@
 
 @font-face {
   font-family: "regular";
-  src: url("../fonts/BaiJamjuree-Regular.woff2");
+  src: url("./BaiJamjuree-Regular.woff2");
 }
 
 @font-face {
   font-family: "semi-bold";
-  src: url("../fonts/BaiJamjuree-SemiBold.woff2");
+  src: url("./BaiJamjuree-SemiBold.woff2");
 }
 
 body {
