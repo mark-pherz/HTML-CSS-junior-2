@@ -235,6 +235,7 @@ body {
 .footer__nav > a:hover,
 .footer__social > i:hover {
   color: var(--strong-cyan);
+  cursor: pointer;
 }
 
 .nav__item {
